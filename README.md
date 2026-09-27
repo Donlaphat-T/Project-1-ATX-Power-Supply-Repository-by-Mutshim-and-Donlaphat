@@ -5,6 +5,10 @@ This project is converting a used PC ATX power supply into a safe bench power so
 
 ### Team:
 1. Donlaphat Trakarnpol
-2. Mutshim Te
+2. Majimah Tienchai
 
 ### Source PSU:
+<div align="center">
+https://github.com/user-attachments/assets/8c3a2f33-0cf1-4630-90b4-b49f7ca828c5
+*Source PSU Model: EB-480W*
+</div>
