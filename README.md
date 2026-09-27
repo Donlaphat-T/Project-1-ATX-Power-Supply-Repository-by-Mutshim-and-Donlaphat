@@ -8,7 +8,12 @@ This project is converting a used PC ATX power supply into a safe bench power so
 2. Majimah Tienchai
 
 ### Source PSU:
-<div align="center">
-https://github.com/user-attachments/assets/8c3a2f33-0cf1-4630-90b4-b49f7ca828c5
+![Source PSU](https://github.com/user-attachments/assets/8c3a2f33-0cf1-4630-90b4-b49f7ca828c5)
 *Source PSU Model: EB-480W*
-</div>
+
+
+
+## 2. Safety boundary, Risk assessment, Stop conditions, and Signed checkpoints
+![Safety boundary](https://github.com/user-attachments/assets/cc3c07e4-2b9d-47fa-ba32-98c8626b62a2)
+*Safety boundary*
+
