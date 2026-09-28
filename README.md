@@ -8,7 +8,9 @@ This project is converting a used PC ATX power supply into a safe bench power so
 2. Majimah Tienchai
 
 ### Source PSU:
-![Source PSU](https://github.com/user-attachments/assets/5af9271f-3873-4b9b-875a-1438868a41f8)
+<p align="center">
+ <img src =https://github.com/user-attachments/assets/5af9271f-3873-4b9b-875a-1438868a41f8>
+</p>
 
 *Fig 1. Source PSU Model: EB-480W*
 
@@ -45,8 +47,48 @@ source PSU:
 -[iPodxvF30w6B.pdf](https://github.com/user-attachments/files/32731369/iPodxvF30w6B.pdf)
 
 ฺBanana Plugs:
+
 ![](https://github.com/user-attachments/assets/5c3b9ad7-c2ac-4268-a0b9-27a783c5c1f7)
+
 *Fig 6. Banana plugs model*
+
+Buck boost converter:
+
+![](https://github.com/user-attachments/assets/1475d34a-3606-4106-9728-2a2e7a874610)
+
+*Fig 7. Buck Boost Converter*
+
+Voltmeter:
+![voltimetro_e_amperimetro.pdf](https://github.com/user-attachments/files/32755765/voltimetro_e_amperimetro.pdf)
+
+Diodes:
+https://www.farnell.com/datasheets/1498852.pdf
+
+Resistors:
+https://www.berrybase.de/en/product-datasheet/019234a5971970a9a312c05a8f9bc4a7/create?srsltid=AU7gw4WkeI33dmOygae0yjKvHm5UTCsIaCjpGc6ve3QM5Fcs5IratSii
+
+## 6. Construction photographs
+![](https://github.com/user-attachments/assets/bb7d12b9-9328-40bb-8665-f436fac30fc3)
+*Fig 9.*
+![](https://github.com/user-attachments/assets/7add61a0-efaf-49af-b5ad-906f8f5d7096)
+*Fig 10.*
+
+## 7. unpowered, repeated-start, minimum-load, fixed-rail, adjustable-output, ripple, voltage-drop, and thermal evidence:
+![](https://github.com/user-attachments/assets/3dd44bbc-7c54-4170-8972-5d2df903b771)
+*Fig 11. +12 V test*
+![](https://github.com/user-attachments/assets/40b9b256-0042-4a4f-b5fd-bba7c2665185)
+*Fig 12. +5 V test*
+![](https://github.com/user-attachments/assets/82e2a408-4f2a-4d42-8b76-7ee37ab6108f)
+*Fig 13. +3.3 V test*
+![](https://github.com/user-attachments/assets/923f13ba-5330-4b61-b547-627645e36e21)
+*Fig 14. adjustable voltage test*
+
+## 8. individual contribution statement:
+
+## 9. references:
+- https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/
+- https://dronebotworkshop.com/atx-bench-supply/
+
 
 
 
