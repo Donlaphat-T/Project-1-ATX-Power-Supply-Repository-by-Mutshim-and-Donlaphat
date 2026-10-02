@@ -83,7 +83,18 @@ https://www.berrybase.de/en/product-datasheet/019234a5971970a9a312c05a8f9bc4a7/c
 ![](https://github.com/user-attachments/assets/923f13ba-5330-4b61-b547-627645e36e21)
 *Fig 14. adjustable voltage test*
 
-## 8. references:
+## 8. Team Contribution
+Majimah:
+- Protection circuit and wiring
+- Enclosure and construction
+- Testing and measurement
+
+Donlaphat:
+- Circuit design and calculations
+- Cutting acrylic and construction
+- Troubleshooting and documentation
+
+## 9. references:
 - https://edc.intel.com/content/www/us/en/design/ipla/software-development-platforms/client/platforms/alder-lake-desktop/atx-version-3-0-multi-rail-desktop-platform-power-supply-design-guide/2.1a/
 - https://dronebotworkshop.com/atx-bench-supply/
 
